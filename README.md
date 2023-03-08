@@ -7,6 +7,6 @@
 ## Output
 
 <img
-  src="./img/pratikum1.png"
+  src="./img/praktikum1.png"
   alt="output"
   style="display: block; margin: auto; max-width: 300px">
